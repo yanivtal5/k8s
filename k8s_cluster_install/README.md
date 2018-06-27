@@ -1,4 +1,6 @@
-# Usefull commands, on master, can be used after master installed to inspect the cluster
+# Install Kubernetes cluster with flannel and dashboard
+
+### Usefull commands, on master, can be used after master installed to inspect the cluster
 
 Get all system pods - 
 ```
